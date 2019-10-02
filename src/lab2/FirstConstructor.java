@@ -1,3 +1,5 @@
+package lab2;
+
 public class FirstConstructor {
     float width;
     float height;

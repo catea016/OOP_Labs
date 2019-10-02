@@ -1,3 +1,5 @@
+package lab2;
+
 public class Queue {
     int queue[];
     int capacity;
@@ -39,15 +41,15 @@ public class Queue {
     }
     public void isEmpty(){
        if(size()==0){
-           System.out.println("\nQueue is empty");
+           System.out.println("\nlab2.Queue is empty");
        }
        else{
-           System.out.println("\nQueue is not empty");
+           System.out.println("\nlab2.Queue is not empty");
        }
     }
     public void isFull(){
        if(size()==capacity){
-           System.out.println("\nQueue is full");
+           System.out.println("\nlab2.Queue is full");
        }
        else{
            System.out.println("\nThe size of queue is : " + size() );

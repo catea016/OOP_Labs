@@ -1,3 +1,5 @@
+package lab2;
+
 public class ThirdConstructor {
     float height;
     float width;

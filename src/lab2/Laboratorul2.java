@@ -1,3 +1,5 @@
+package lab2;
+
 public class Laboratorul2 {
     public static void main (String args[]){
         FirstConstructor c1 = new FirstConstructor();
