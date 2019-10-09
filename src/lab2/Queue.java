@@ -39,6 +39,7 @@ public class Queue {
     public int size(){
        return count;
     }
+
     public void isEmpty(){
        if(size()==0){
            System.out.println("\nlab2.Queue is empty");
