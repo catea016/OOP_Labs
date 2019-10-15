@@ -36,13 +36,13 @@ public class Queue {
         count--;
         return value;
     }
-    public int size(){
+    public  int size(){
        return count;
     }
 
     public void isEmpty(){
        if(size()==0){
-           System.out.println("\nlab2.Queue is empty");
+           System.out.println("\nlab2.Queue is not empty");;
        }
        else{
            System.out.println("\nlab2.Queue is not empty");
