@@ -1,17 +1,27 @@
 package lab7;
 
 public class GeometricBodyController {
+    static public double getBiggestSurface(GeometricBody[] geometricBodies){
+        double maxSurface = 0;
+        for(int i = 0;i<geometricBodies.length;i++)
+        {
+           if( maxSurface < geometricBodies[i].getSurface())
+           {
+               maxSurface = geometricBodies[i].getSurface();
+           }
+        }
+        return maxSurface;
+    }
 
-    public float getBiggestVolume(String[] GeometricBodys){
-        String maxVolume;
-        for(int i = 0; i<=GeometricBodys.length; i++){
-            if(GeometricBodys[i + 1] < GeometricBodys[i]) {
-                maxVolume = GeometricBodys[i];
+    static public double getBiggestVolume(GeometricBody[] geometricBodies){
+        double maxVolume = 0;
+        for(int i = 0;i<geometricBodies.length;i++)
+        {
+            if( maxVolume < geometricBodies[i].getVolume())
+            {
+                maxVolume = geometricBodies[i].getVolume();
             }
         }
-
-    }
-    public float getBiggestSurface(){
-
+        return maxVolume;
     }
 }

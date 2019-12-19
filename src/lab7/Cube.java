@@ -1,17 +1,22 @@
 package lab7;
 
-public class Cube extends GeometricBody {
+public class Cube implements GeometricBody {
+     public double length;
 
-    float length = 3;
 
+     public Cube (double length){
+         this.length=length;
+     }
 
-    @Override
-    public double getArea() {
-        return 6*length*length;
-    }
+     public double getSurface(){
+         double surface;
+         surface= 6 * (length * length);
+                 return surface;
+     }
 
-    @Override
-    public double getVolume() {
-        return length*length*length;
-    }
+     public double getVolume(){
+         double volume;
+         volume = length*length*length;
+         return volume;
+     }
 }

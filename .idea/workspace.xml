@@ -2,167 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc767d3b-693c-4808-acd0-f7ae25895a39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoare_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1$X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2$X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3$X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4$X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/advanced/Main4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/basic/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab1/Lab_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab1/Monitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab1/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab1/University.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab2/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab2/Laboratorul2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab2/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab3/Laboratorul3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab3/Text.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab4/Laboratory4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab4/ParenthesesChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab4/one_expressions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab4/three_expressions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/AdministrativeStaff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Date.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/FrontDeskStaff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/FullName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/History.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Hospital.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Nurse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/OperationsStaff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Patient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Receptionist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Staff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Surgeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/SurgicalTechnologist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/TechnicalStaff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Technician.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab6/Technologist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Cube.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/GeometricBody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Parallelepiped.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Sphere.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$H.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$J.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main$X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/medium/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/ParenthesesChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/one_expressions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/three_expressions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/advanced/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/advanced/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/advanced/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/advanced/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/basic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/medium/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/AdministrativeStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/FrontDeskStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/FullName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/OperationsStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Receptionist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/SurgicalTechnologist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/TechnicalStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Technician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Technologist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/GeometricBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/GeometricBodyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Parallelepiped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/Laboratory4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Laboratory4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Cube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/GeometricBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/GeometricBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Parallelepiped.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Parallelepiped.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Sphere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare_OOP/lab7/Sphere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/GeometricBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/GeometricBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/GeometricBodyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/GeometricBodyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/Parallelepiped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/Parallelepiped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/Sphere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +53,7 @@
       <recent name="lab5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab_1">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Lab_1" type="Application" factoryName="Application" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/out" is_save="true" />
       <option name="MAIN_CLASS_NAME" value="lab1.Lab_1" />
@@ -223,12 +75,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Laboratory4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.Laboratory4" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.Main" />
       <module name="Laboratoare_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab4.*" />
+          <option name="PATTERN" value="lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.basic.Main" />
+      <module name="Laboratoare_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.medium.Main" />
+      <module name="Laboratoare_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.advanced.Main" />
+      <module name="Laboratoare_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,46 +140,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.Main3" />
-      <module name="Laboratoare_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.Main4" />
-      <module name="Laboratoare_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Lab_1" />
       <item itemvalue="Application.Laboratorul2" />
-      <item itemvalue="Application.Laboratory4" />
-      <item itemvalue="Application.Main3" />
-      <item itemvalue="Application.Main4" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Laboratory4" />
-        <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -351,30 +218,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575927619574" />
-    <state width="1237" height="65" key="GridCell.Tab.0.bottom" timestamp="1575929616333">
+    <state width="1237" height="95" key="GridCell.Tab.0.bottom" timestamp="1576788688237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="65" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575929616333" />
-    <state width="1237" height="65" key="GridCell.Tab.0.center" timestamp="1575929616333">
+    <state width="1237" height="95" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576788688237" />
+    <state width="1237" height="95" key="GridCell.Tab.0.center" timestamp="1576788688237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="65" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575929616333" />
-    <state width="1237" height="65" key="GridCell.Tab.0.left" timestamp="1575929616333">
+    <state width="1237" height="95" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576788688237" />
+    <state width="1237" height="95" key="GridCell.Tab.0.left" timestamp="1576788688237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="65" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575929616333" />
-    <state width="1237" height="65" key="GridCell.Tab.0.right" timestamp="1575929616333">
+    <state width="1237" height="95" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576788688237" />
+    <state width="1237" height="95" key="GridCell.Tab.0.right" timestamp="1576788688237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="65" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575929616333" />
+    <state width="1237" height="95" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576788688237" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1575927855160">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575927855160" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576002154869">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576787601286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576002154869" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576787601286" />
     <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575929414889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

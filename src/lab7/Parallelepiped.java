@@ -1,18 +1,26 @@
 package lab7;
 
-public class Parallelepiped extends GeometricBody {
+public class Parallelepiped implements GeometricBody {
+    private double height;
+    private double width;
+    private double depth;
 
-    float width = 5 ;
-    float height  = 2;
-    float depth = 4 ;
-
-    @Override
-    public double getArea() {
-        return 2*(width*height + height*depth + depth*width);
+    public Parallelepiped(double height, double width, double depth) {
+        this.height = height;
+        this.width = width;
+        this.depth = depth;
     }
 
-    @Override
-    public double getVolume() {
-        return width*height*depth;
+    public double getSurface(){
+        double surface;
+        surface = 2*(height*width+height*depth+depth*height);
+        return surface;
     }
+
+    public double getVolume(){
+        double volume;
+        volume = height*width*depth;
+        return volume;
+    }
+
 }

@@ -1,17 +1,21 @@
 package lab7;
 
-public class Sphere extends GeometricBody {
-    float pi = (float) 3.14;
-    int radius = 2;
+public class Sphere implements GeometricBody  {
+    public double radius;
 
-
-    @Override
-    public double getArea() {
-        return 4*pi*(radius^2);
+    public Sphere(double radius) {
+        this.radius = radius;
     }
 
-    @Override
-    public double getVolume() {
-        return (4*pi*(radius^2))/3;
+    public double getSurface(){
+        double surface;
+        surface = 4*Math.PI*(radius*radius);
+        return surface;
+    }
+
+    public double getVolume(){
+        double volume;
+        volume = (4*Math.PI*radius*radius*radius)/3;
+        return volume;
     }
 }
