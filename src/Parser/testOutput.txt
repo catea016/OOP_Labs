@@ -1,0 +1,259 @@
+Source: 2+2
+Result: 4
+JSON:
+{
+	operator: +,
+	left: 2,
+	right: 2
+}
+
+##########################################
+
+Source: 3-5
+Result: -2
+JSON:
+{
+	operator: -,
+	left: 3,
+	right: 5
+}
+
+##########################################
+
+Source: 5*3
+Result: 15
+JSON:
+{
+	operator: *,
+	left: 5,
+	right: 3
+}
+
+##########################################
+
+Source: 21/7
+Result: 3
+JSON:
+{
+	operator: /,
+	left: 21,
+	right: 7
+}
+
+##########################################
+
+Source: 2*(2+2)
+Result: 8
+JSON:
+{
+	operator: *,
+	left: 2,
+	right: {
+		operator: (),
+		content: {
+			operator: +,
+			left: 2,
+			right: 2
+		}
+	}
+}
+
+##########################################
+
+Source: 2and3
+Result: 2
+JSON:
+{
+	operator: and,
+	left: 2,
+	right: 3
+}
+
+##########################################
+
+Source: 7or8
+Result: 15
+JSON:
+{
+	operator: or,
+	left: 7,
+	right: 8
+}
+
+##########################################
+
+Source: 2xor3
+Result: 1
+JSON:
+{
+	operator: xor,
+	left: 2,
+	right: 3
+}
+
+##########################################
+
+Source: 2==2
+Result: 1
+JSON:
+{
+	operator: ==,
+	left: 2,
+	right: 2
+}
+
+##########################################
+
+Source: 2==3
+Result: 0
+JSON:
+{
+	operator: ==,
+	left: 2,
+	right: 3
+}
+
+##########################################
+
+Source: (2+2)==4
+Result: 1
+JSON:
+{
+	operator: ==,
+	left: {
+		operator: (),
+		content: {
+			operator: +,
+			left: 2,
+			right: 2
+		}
+	},
+	right: 4
+}
+
+##########################################
+
+Source: 3*(26-98)/15+777
+Result: 763
+JSON:
+{
+	operator: +,
+	left: {
+		operator: /,
+		left: {
+			operator: *,
+			left: 3,
+			right: {
+				operator: (),
+				content: {
+					operator: -,
+					left: 26,
+					right: 98
+				}
+			}
+		},
+		right: 15
+	},
+	right: 777
+}
+
+##########################################
+
+Source: (3*(26-98)/15+777)*(1and2)
+Result: 0
+JSON:
+{
+	operator: *,
+	left: {
+		operator: (),
+		content: {
+			operator: +,
+			left: {
+				operator: /,
+				left: {
+					operator: *,
+					left: 3,
+					right: {
+						operator: (),
+						content: {
+							operator: -,
+							left: 26,
+							right: 98
+						}
+					}
+				},
+				right: 15
+			},
+			right: 777
+		}
+	},
+	right: {
+		operator: (),
+		content: {
+			operator: and,
+			left: 1,
+			right: 2
+		}
+	}
+}
+
+##########################################
+
+Source: 5*54
+Result: 270
+JSON:
+{
+	operator: *,
+	left: 5,
+	right: 54
+}
+
+##########################################
+
+Source: 5*2<4
+Result: 0
+JSON:
+{
+	operator: <,
+	left: {
+		operator: *,
+		left: 5,
+		right: 2
+	},
+	right: 4
+}
+
+##########################################
+
+Source: 5<=6
+Result: 1
+JSON:
+{
+	operator: <=,
+	left: 5,
+	right: 6
+}
+
+##########################################
+
+Source: 5>=5
+Result: 1
+JSON:
+{
+	operator: >=,
+	left: 5,
+	right: 5
+}
+
+##########################################
+
+Source: 3>2
+Result: 1
+JSON:
+{
+	operator: >,
+	left: 3,
+	right: 2
+}
+
+##########################################
